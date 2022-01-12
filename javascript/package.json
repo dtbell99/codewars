@@ -1,0 +1,11 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "Sample code used on the codewars kata training site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Bell",
+  "license": "MIT"
+}

@@ -19,5 +19,6 @@ public class Accumul {
     public static void main(String[] args) {
         assert accum("abcd").equals("A-Bb-Ccc-Dddd");
         assert accum("cwaT").equals("C-Ww-Aaa-Tttt");
+        System.out.println("Test(s) Pass");
     }
 }

@@ -7,5 +7,6 @@ class Square {
         System.out.println("-1:"+Square.isSquare(-1));
         System.out.println("4:"+Square.isSquare(4));
         System.out.println("5:"+Square.isSquare(5));
+        System.out.println("Tests Pass");
     }
 }

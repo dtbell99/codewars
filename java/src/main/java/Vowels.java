@@ -11,6 +11,7 @@ public class Vowels {
     public static void main(String[] args) {
         String s = "abcdefghijklmnopqrstuvwxyz";
         assert(getCount(s) == 5);
+        System.out.println("Test(s) Passed");
     }
 
 }
